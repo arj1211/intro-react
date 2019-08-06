@@ -14,6 +14,7 @@ class App extends React.Component {
 
     this.handleButtonClicked = this.handleButtonClicked.bind(this);
     this.addAssignment = this.addAssignment.bind(this);
+    /*Uncomment the line below for step 3*/
     this.addStudent = this.addStudent.bind(this);
     this.addGrade = this.addGrade.bind(this);
   }
